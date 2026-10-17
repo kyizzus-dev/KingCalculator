@@ -1,0 +1,6 @@
+{
+  "name": "King Calculator",
+  "description": "Calculadora algebraica avanzada v1.2 con escaneo de problemas matemáticos por cámara y tutor chatbot paso a paso con Gemini AI. Creado por kyizzus-dev.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
